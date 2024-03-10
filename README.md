@@ -1,7 +1,6 @@
 # Weather Station
 This repository contains a Rust program that fetches and displays weather information from the OpenWeatherMap API based on user input for city name and country code.
-![image](https://github.com/BekBrace/weatherApplicationCLI/assets/60483846/4bd85846-33bc-4fd1-b768-d136f750662a)
-
+![image](https://github.com/BekBrace/weatherApplicationCLI/assets/60483846/281078b5-e646-4211-b6b8-460eddf5b258)
 
 Description
 The program prompts the user to input the name of a city and its country code. It then sends a request to the OpenWeatherMap API to fetch weather information for the specified location. The retrieved data includes weather description, temperature, humidity, pressure, and wind speed. The program then displays this information to the user in a formatted and colored output.
